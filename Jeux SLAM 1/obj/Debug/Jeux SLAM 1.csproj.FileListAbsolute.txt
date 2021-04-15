@@ -1,0 +1,14 @@
+C:\Users\Anas\source\repos\Jeux SLAM 1\obj\Debug\Jeux SLAM 1.csprojAssemblyReference.cache
+C:\Users\Anas\source\repos\Jeux SLAM 1\obj\Debug\Jeux SLAM 1.csproj.CoreCompileInputs.cache
+C:\Users\Anas\source\repos\Jeux SLAM 1\bin\Debug\Jeux SLAM 1.exe.config
+C:\Users\Anas\source\repos\Jeux SLAM 1\bin\Debug\Jeux SLAM 1.exe
+C:\Users\Anas\source\repos\Jeux SLAM 1\bin\Debug\Jeux SLAM 1.pdb
+C:\Users\Anas\source\repos\Jeux SLAM 1\obj\Debug\Jeux SLAM 1.exe
+C:\Users\Anas\source\repos\Jeux SLAM 1\obj\Debug\Jeux SLAM 1.pdb
+C:\C#\Jeux SLAM 1\bin\Debug\Jeux SLAM 1.exe.config
+C:\C#\Jeux SLAM 1\bin\Debug\Jeux SLAM 1.exe
+C:\C#\Jeux SLAM 1\bin\Debug\Jeux SLAM 1.pdb
+C:\C#\Jeux SLAM 1\obj\Debug\Jeux SLAM 1.csprojAssemblyReference.cache
+C:\C#\Jeux SLAM 1\obj\Debug\Jeux SLAM 1.csproj.CoreCompileInputs.cache
+C:\C#\Jeux SLAM 1\obj\Debug\Jeux SLAM 1.exe
+C:\C#\Jeux SLAM 1\obj\Debug\Jeux SLAM 1.pdb
